@@ -1,0 +1,7 @@
+body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+.rsis-image {
+  background-position: center !important;
+}
